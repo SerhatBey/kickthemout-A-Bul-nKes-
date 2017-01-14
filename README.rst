@@ -1,23 +1,23 @@
 KickThemOut
 ============
 
-`KickThemOut <https://nikolaskama.me/kickthemoutproject/>`_ - **Kick Devices Off Your Network**
+`KickThemOut </>`_ - **Kick Devices Off Your Network**
 
 A tool to kick devices out of your network and enjoy all the bandwidth for yourself.
 It allows you to select specific or all devices and ARP spoofs them off your local area network.
 
 Compatible with Python 2.6 & 2.7.
 
-Authors: `Nikolaos Kamarinakis <mailto:nikolaskam@gmail.com>`_  & `David Schütz <mailto:xdavid@protonmail.com>`_.
+
 
 .. image:: https://nikolaskama.me/content/images/2017/01/kickthemout.png
 
 Installation
 -------------
 
-You can download KickThemOut by cloning the `Git Repo <https://github.com/k4m4/kickthemout>`_ and simply installing its requirements::
+You can download KickThemOut by cloning the `Git Repo <https://github.com/SerhatBey>`_ and simply installing its requirements::
 
-    $ git clone https://github.com/k4m4/kickthemout.git
+    $ git clone https://github.com/SerhatBey/kickthemout-A-Bul-nKes-.git
     
     $ cd kickthemout
     
